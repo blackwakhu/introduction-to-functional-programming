@@ -1,0 +1,8 @@
+entrypoint = "main.clj"
+
+hidden = [".clj-kondo", ".lsp", ".config"]
+
+modules = ["clojure-1.11"]
+
+[nix]
+channel = "stable-23_11"

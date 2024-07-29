@@ -3,4 +3,5 @@
 (println "4 - 2 ="(- 4 2))
 (println "5 * 5 ="(* 5 5))
 (println "8 / 2 ="(/ 8 2))
+(println "5 mod 2 ="(mod 5 2))
 
